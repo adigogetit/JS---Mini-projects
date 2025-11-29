@@ -19,11 +19,9 @@ for(let btn of buttons){
             catch(event){
                 inp.value = "Noi bataunga"
             }
-
         }
         else{
             inp.value += btnText;
         }
-
     })
 }
